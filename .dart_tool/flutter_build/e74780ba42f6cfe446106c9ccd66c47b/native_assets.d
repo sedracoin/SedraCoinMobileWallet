@@ -1,0 +1,1 @@
+ C:\\SEDRA-WORK\\SedraCoin\\twitter#\\DOCKER_NEW\\MobileWallet\\.dart_tool\\flutter_build\\e74780ba42f6cfe446106c9ccd66c47b\\native_assets.yaml: 
